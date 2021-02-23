@@ -38,7 +38,7 @@ header {
 }
 
 #primo_buttom {
-    background-color: blue;
+    background-color: rgba(0, 102, 255, 0.466);
     color: white;
     padding: 5px;
     border-radius: 10px;
@@ -76,7 +76,7 @@ header {
      display: inline-block;
      height: 25px;
      width: 100px;
-     border-radius: 20%;
+     border-radius: 15%;
      text-align: center;
      vertical-align: middle;
      line-height: 25px;
@@ -113,4 +113,41 @@ header {
 
 }
 
+.edit4 {
+    display: inline-block;
+    height: 25px;
+    width: 100px;
+    border-radius: 20%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;
+    background-color: orange;
+    color: white;
 
+}
+
+.edit5 {
+    display: inline-block;
+    height: 25px;
+    width: 100px;
+    border-radius: 20%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;
+    background-color: rgb(255, 192, 239);
+    color:white;
+
+}
+
+.edit6 {
+    display: inline-block;
+    height: 25px;
+    width: 100px;
+    border-radius: 20%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;
+    background-color: green;
+    color:white;
+
+}

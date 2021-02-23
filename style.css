@@ -16,3 +16,88 @@
    line-height: 50px;
    vertical-align: auto;
 }
+
+.container {
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#primo_buttom {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+#secondo_buttom {
+    background-color: white;
+    color: lightgray;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+.prima_lista {
+    list-style-type: none;
+}
+
+.new_task {
+    font-size: large;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+.edit {
+     display: inline-block;
+     height: 25px;
+     width: 100px;
+     border-radius: 20%;
+     text-align: center;
+     vertical-align: middle;
+     line-height: 25px;
+     background-color: blue;
+     color: white;
+}
+
+.quarterly {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.edit2 {
+    display: inline-block;
+     height: 25px;
+     width: 100px;
+     border-radius: 20%;
+     text-align: center;
+     vertical-align: middle;
+     line-height: 25px;
+     background-color:purple;
+     color: white;
+}
+
+.edit3 {
+    display: inline-block;
+    height: 25px;
+    width: 100px;
+    border-radius: 20%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;
+    background-color: greenyellow;
+    color: white;
+
+}
+
+

@@ -10,19 +10,19 @@ body {
 
 header {
     background-color: white;
+    padding: 10px;
 }
 
 #logo {
-    margin-left: 10px;
-    margin-top: 5px;
+    vertical-align: middle;
 }
 
 
 #titolo {
-   font-size: 50px;
+   font-size: 30px;
    font-family: 'RocknRoll One', sans-serif;
    line-height: 50px;
-   vertical-align: auto;
+   vertical-align: middle;
 }
 
 .container {
